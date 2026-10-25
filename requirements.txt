@@ -1,0 +1,6 @@
+# Compatibility ranges; not a lock of the original Windows environment.
+pandas>=2.2,<4
+matplotlib>=3.7,<4
+seaborn>=0.13,<0.14
+statsmodels==0.15.0
+notebook>=7,<8
