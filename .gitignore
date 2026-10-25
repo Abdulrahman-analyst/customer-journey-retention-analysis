@@ -1,0 +1,8 @@
+Data/*
+!Data/README.md
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+Thumbs.db
+.DS_Store
